@@ -6,7 +6,8 @@
 
 
 ## Simulated Dataset
-Simulated data can be downloaded [here](https://drive.google.com/file/d/1oez7kzFFhqU9JZQhqJdDshXrRQczBmlp/view?usp=sharing). The metadata is stored in *"data/meta_data/{}.json"*, one instance is as follows:
+Simulated data can be downloaded from [GoogleDrive](https://drive.google.com/file/d/1oez7kzFFhqU9JZQhqJdDshXrRQczBmlp/view?usp=sharing) or [BaiduNetDisk](https://pan.baidu.com/s/1rGrcjtQCEYFpr3o6y9wI8Q?pwd=pico) with the extraction code "pico". 
+The metadata is stored in *"data/meta_data/{}.json"*, one instance is as follows:
 ```python
 {
   "filepath": "data/multi_event_test/syn_1.wav",
