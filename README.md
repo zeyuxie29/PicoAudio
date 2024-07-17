@@ -30,7 +30,7 @@ where:
 * For test file *"test-frequency-control_onoffFromGpt_{}.json"*, the *"onoffCaption"* is derived from *"frequencyCaption"* transformed by GPT-4, which is used for evaluation in the frequency control task.
 
 ## Training 
-Download data into the *"data"* folder
+Download data into the *"data"* folder. 
 The training and inference code can be found in the *"picoaudio"* folder.
 ```shell
 cd picoaudio
