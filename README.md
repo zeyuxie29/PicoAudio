@@ -9,7 +9,7 @@
 * Achieve any precise control related to timing by integrating of large language models.
   
 ## Code
-The training and inference code can be found in the *"picoaudio"* folder, and you can also access the demo on the website [HuggingfaceInfernce](https://huggingface.co/spaces/ZeyuXie/PicoAudio) and [GithubDemo](https://zeyuxie29.github.io/PicoAudio.github.io).
+The training and inference code can be found in the *"picoaudio"* folder, and you can also access the demo on the website [Huggingface Online Infernce](https://huggingface.co/spaces/ZeyuXie/PicoAudio) and [Github Demo](https://zeyuxie29.github.io/PicoAudio.github.io).
 
 ## Simulated Dataset
 Simulated data can be downloaded from [GoogleDrive](https://drive.google.com/file/d/1oez7kzFFhqU9JZQhqJdDshXrRQczBmlp/view?usp=sharing) or [BaiduNetDisk](https://pan.baidu.com/s/1rGrcjtQCEYFpr3o6y9wI8Q?pwd=pico) with the extraction code "pico". 
