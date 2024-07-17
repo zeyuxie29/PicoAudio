@@ -9,9 +9,9 @@
 * Achieve any precise control related to timing by integrating of large language models.
   
 ## Inference
-You can see the demo on the website [Huggingface Online Infernce](https://huggingface.co/spaces/ZeyuXie/PicoAudio) and [Github Demo](https://zeyuxie29.github.io/PicoAudio.github.io).
-Or you can use the *"inferrence.py"* script provided by website [Huggingface Infernce](https://huggingface.co/spaces/ZeyuXie/PicoAudio/tree/main) to generate.
-Huggingface Online Infernce uses Gemini as a preprocessor, and we also provide a GPT preprocessing script consistent with the paper in *"llm_preprocess.py"*
+You can see the demo on the website [Huggingface Online Inference](https://huggingface.co/spaces/ZeyuXie/PicoAudio) and [Github Demo](https://zeyuxie29.github.io/PicoAudio.github.io).
+Or you can use the *"inference.py"* script provided by website [Huggingface Inference](https://huggingface.co/spaces/ZeyuXie/PicoAudio/tree/main) to generate.
+Huggingface Online Inference uses Gemini as a preprocessor, and we also provide a GPT preprocessing script consistent with the paper in *"llm_preprocess.py"*
 
 ## Simulated Dataset
 Simulated data can be downloaded from [GoogleDrive](https://drive.google.com/file/d/1oez7kzFFhqU9JZQhqJdDshXrRQczBmlp/view?usp=sharing) or [BaiduNetDisk](https://pan.baidu.com/s/1rGrcjtQCEYFpr3o6y9wI8Q?pwd=pico) with the extraction code "pico". 
