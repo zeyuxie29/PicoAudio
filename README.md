@@ -1,6 +1,6 @@
 # PicoAudio: Enabling Precise Timing and Frequency Controllability of Audio Events in Text-to-audio Generation
 [![arXiv](https://img.shields.io/badge/arXiv-2308.05734-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2407.02869)
-[![githubio](https://img.shields.io/badge/GitHub.io-Audio_Samples-blue?logo=Github&style=flat-square)](https://picoaudio.github.io/)
+[![githubio](https://img.shields.io/badge/GitHub.io-Audio_Samples-blue?logo=Github&style=flat-square)](https://zeyuxie29.github.io/PicoAudio.github.io/))
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/ZeyuXie/PicoAudio)
   
 **Bullet contribution**:
