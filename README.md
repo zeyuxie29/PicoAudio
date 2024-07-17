@@ -7,7 +7,9 @@
 * A data simulation pipeline tailored specifically for controllable audio generation frameworks;
 * Propose a timing-controllable audio generation framework, enabling precise control over the timing and frequency of sound event;
 * Achieve any precise control related to timing by integrating of large language models.
-
+  
+## Code
+The training and inference code can be found in the *"picoaudio"* folder, and you can also access the demo on the website [HuggingfaceDemo](https://huggingface.co/spaces/ZeyuXie/PicoAudio) and [GithubDemo](https://github.com/PicoAudio/PicoAudio).
 
 ## Simulated Dataset
 Simulated data can be downloaded from [GoogleDrive](https://drive.google.com/file/d/1oez7kzFFhqU9JZQhqJdDshXrRQczBmlp/view?usp=sharing) or [BaiduNetDisk](https://pan.baidu.com/s/1rGrcjtQCEYFpr3o6y9wI8Q?pwd=pico) with the extraction code "pico". 
