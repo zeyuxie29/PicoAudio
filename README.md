@@ -8,8 +8,9 @@
 * Propose a timing-controllable audio generation framework, enabling precise control over the timing and frequency of sound event;
 * Achieve any precise control related to timing by integrating of large language models.
   
-## Code
-The training and inference code can be found in the *"picoaudio"* folder, and you can also access the demo on the website [Huggingface Online Infernce](https://huggingface.co/spaces/ZeyuXie/PicoAudio) and [Github Demo](https://zeyuxie29.github.io/PicoAudio.github.io).
+## Inference
+You can 
+You can also access the demo on the website [Huggingface Online Infernce](https://huggingface.co/spaces/ZeyuXie/PicoAudio) and [Github Demo](https://zeyuxie29.github.io/PicoAudio.github.io).
 
 ## Simulated Dataset
 Simulated data can be downloaded from [GoogleDrive](https://drive.google.com/file/d/1oez7kzFFhqU9JZQhqJdDshXrRQczBmlp/view?usp=sharing) or [BaiduNetDisk](https://pan.baidu.com/s/1rGrcjtQCEYFpr3o6y9wI8Q?pwd=pico) with the extraction code "pico". 
@@ -27,6 +28,16 @@ where:
 * *"onoffCaption"* contains on- & off-set information.
 * For test file *"test-frequency-control_onoffFromGpt_{}.json"*, the *"onoffCaption"* is derived from *"frequencyCaption"* transformed by GPT-4, which is used for evaluation in the frequency control task.
 
+## Training 
+Download data into the *"data"* folder
+The training and inference code can be found in the *"picoaudio"* folder.
+```shell
+cd picoaudio
+pip install -r requirements.txt
+```
+```python
+  accelerate launch runner/controllable_train.py
+```
 <!--
 ### Hi there 👋
 **PicoAudio/PicoAudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
