@@ -40,6 +40,10 @@ To start traning:
 ```python
   accelerate launch runner/controllable_train.py
 ```
+
+## Acknowledgement
+Our code referred to the [AudioLDM](https://github.com/haoheliu/AudioLDM) and [Tango](https://github.com/declare-lab/tango). We appreciate their open-sourcing of their code.
+
 <!--
 ### Hi there 👋
 **PicoAudio/PicoAudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
