@@ -1,8 +1,8 @@
 # PicoAudio: Enabling Precise Timing and Frequency Controllability of Audio Events in Text-to-audio Generation
-[![arXiv](https://img.shields.io/badge/arXiv-2308.05734-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2407.02869v2)
+[![arXiv](https://img.shields.io/badge/arXiv-2407.02869v2-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2407.02869v2)
 [![githubio](https://img.shields.io/badge/GitHub.io-Audio_Samples-blue?logo=Github&style=flat-square)](https://zeyuxie29.github.io/PicoAudio.github.io/)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/ZeyuXie/PicoAudio)
-  
+[![Hugging Face data](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/ZeyuXie/PicoAudio)
 **Bullet contribution**:
 * A data simulation pipeline tailored specifically for controllable audio generation frameworks;
 * Propose a timing-controllable audio generation framework, enabling precise control over the timing and frequency of sound event;
